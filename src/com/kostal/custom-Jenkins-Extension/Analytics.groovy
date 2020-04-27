@@ -1,11 +1,11 @@
-package com.kostal.custom-Jenkins-Extension
+package com.kostal.customJenkinsExtension
 
 /*****************************************************************************
  * Helper class used by global variables to collect analytics data and
  * send it to backend Rest Api ar Elastic search indexes
  ****************************************************************************/
 
-import com.kostal.custom-Jenkins-Extension.logging.Logger
+import com.kostal.customJenkinsExtension.logging.Logger
 import java.text.SimpleDateFormat
 import groovy.json.JsonBuilder
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-import com.kostal.custom-Jenkins-Extension.Analytics
+import com.kostal.customJenkinsExtension.Analytics
 
 /**
 * Override Jenkins built-in node step by adding some calls to external Rest 
