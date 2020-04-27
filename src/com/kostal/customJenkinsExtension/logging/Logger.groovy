@@ -1,4 +1,4 @@
-package com.kostal.custom-Jenkins-Extension.logging
+package com.kostal.customJenkinsExtension.logging
 
 import com.cloudbees.groovy.cps.NonCPS
 
